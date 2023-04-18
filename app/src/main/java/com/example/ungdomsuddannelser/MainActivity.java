@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void clickedButton(View view) {
-        Intent toMenu = new Intent(this, InterestsActivity.class);
+        Intent toMenu = new Intent(this, MenuActivity.class);
         startActivity(toMenu);
     }
 }
