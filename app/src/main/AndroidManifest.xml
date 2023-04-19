@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Ungdomsuddannelser"
         tools:targetApi="31">
         <activity
+            android:name=".activity_education"
+            android:exported="false" />
+        <activity
             android:name=".MenuActivity"
             android:exported="false" />
         <activity
