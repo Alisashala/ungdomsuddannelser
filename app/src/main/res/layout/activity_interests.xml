@@ -43,8 +43,9 @@
                 android:layout_marginLeft="50dp"
                 android:layout_marginRight="50dp"
                 android:layout_weight="1"
+                android:onClick="toNaturvidenskab"
                 android:background="#10B516"
-                android:text="TextView" />
+                android:text="Naturvidenskab" />
 
             <TextView
                 android:id="@+id/textView19"
@@ -53,8 +54,9 @@
                 android:layout_marginLeft="50dp"
                 android:layout_marginRight="50dp"
                 android:layout_weight="1"
+                android:onClick="toSamfundsvidenskab"
                 android:background="#10B516"
-                android:text="TextView" />
+                android:text="Samfundsvidenskab" />
 
 
         </LinearLayout>
@@ -71,17 +73,19 @@
                 android:layout_marginLeft="50dp"
                 android:layout_marginRight="50dp"
                 android:layout_weight="1"
+                android:onClick="toSprog"
                 android:background="#10B516"
-                android:text="TextView" />
+                android:text="Sprog" />
             <TextView
                 android:id="@+id/textView21"
                 android:layout_width="match_parent"
                 android:layout_height="120dp"
+                android:onClick="toKunst"
                 android:layout_marginLeft="50dp"
                 android:layout_marginRight="50dp"
                 android:layout_weight="1"
                 android:background="#10B516"
-                android:text="TextView" />
+                android:text="Kunst" />
 
 
         </LinearLayout>
