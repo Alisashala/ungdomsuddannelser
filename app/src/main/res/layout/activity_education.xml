@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".InterestsActivity">
+    tools:context=".activity_education">
 
     <TextView
         android:id="@+id/textView4"
@@ -88,6 +88,5 @@
 
 
     </LinearLayout>
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

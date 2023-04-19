@@ -32,8 +32,9 @@
             android:id="@+id/textView6"
             android:layout_width="match_parent"
             android:layout_height="150dp"
-           android:onClick="educationInfo"
+            android:onClick="educationInfo"
             android:background="#10B516"
+            android:layout_marginBottom="10dp"
             android:gravity="center"
             android:text="Uddannelser"
             android:textColor="@color/black"
@@ -43,14 +44,20 @@
             android:id="@+id/textView7"
             android:layout_width="match_parent"
             android:layout_height="150dp"
-            android:onClick="InterestInfo"
-            android:clickable="true"
             android:background="#10B516"
+            android:clickable="true"
             android:gravity="center"
+            android:onClick="InterestInfo"
             android:text="Interesser"
 
             android:textColor="@color/black"
             android:textSize="25dp" />
     </LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
