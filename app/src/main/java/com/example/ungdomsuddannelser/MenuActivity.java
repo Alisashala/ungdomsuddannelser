@@ -22,4 +22,10 @@ public class MenuActivity extends AppCompatActivity {
         Intent toInterest = new Intent(this,InterestsActivity.class);
         startActivity(toInterest);
     }
+
+    public void backToMain(View view) {
+        Intent toMain = new Intent(this, MainActivity.class);
+        startActivity(toMain);
+
+    }
 }

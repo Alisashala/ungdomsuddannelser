@@ -29,4 +29,9 @@ public class InterestsActivity extends AppCompatActivity {
         Intent toMenu = new Intent(this, KunstActivity.class);
         startActivity(toMenu);
     }
+
+    public void backToMenu(View view) {
+        Intent toMenu = new Intent(this, MenuActivity.class);
+        startActivity(toMenu);
+    }
 }
