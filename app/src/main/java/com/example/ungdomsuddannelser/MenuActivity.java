@@ -15,6 +15,8 @@ public class MenuActivity extends AppCompatActivity {
     }
 
     public void educationInfo(View view) {
+        Intent toEducation = new Intent(this, activity_education.class);
+        startActivity(toEducation);
 
     }
 

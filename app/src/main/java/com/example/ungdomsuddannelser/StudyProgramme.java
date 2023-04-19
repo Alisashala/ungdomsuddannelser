@@ -5,13 +5,13 @@ public class StudyProgramme {
     private String name;
     private String description;
     private String category;
-    private ArrayList<String> courseList;
+    private ArrayList<String> courses;
 
-    public StudyProgramme(String name, String description, String category) {
+    public StudyProgramme(String name, String description, String category, ArrayList<String> courses) {
         this.name = name;
         this.description = description;
         this.category = category;
-        this.courseList = courseList;
+        this.courses = courses;
     }
 
     public String getName() {
@@ -31,12 +31,17 @@ public class StudyProgramme {
     }
 
     public ArrayList<String> getCourseList() {
-        return courseList;
+        return courses;
     }
 
-    public void setCourseList(ArrayList<String> courseList) {
-        this.courseList = courseList;
+    public void addCourse(String course){
+        this.courses.add(course);
     }
+    public void removeCourse(String course) {
+        this.courses.remove(course);
+    }
+
+
 
     public String getCategory() {
         return category;
@@ -45,5 +50,16 @@ public class StudyProgramme {
     public void setCategory(String category) {
         this.category = category;
     }
+
+    @Override
+    public String toString() {
+        return "StudyProgramme{" +
+                "name='" + name + '\'' +
+                ", description='" + description + '\'' +
+                ", category='" + category + '\'' +
+                ", courses=" + courses +
+                '}';
+    }
 }
+
 

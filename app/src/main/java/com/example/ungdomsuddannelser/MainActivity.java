@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        addProgram();
+
 
     }
 
@@ -32,40 +32,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-
-
-
-
-
-    public void addProgram(){
-
-        StudyProgramme program1 = new StudyProgramme("International musik", "Kort beskrivelse","Kunst");
-
-
-        ArrayList<StudyProgramme> studyProgrammes = new ArrayList<>();
-        studyProgrammes.add(program1);
-        HashMap<String,Object> data = new HashMap<>();
-        data.put("programme", studyProgrammes);
-
-        // Add a new document with a generated ID
-        db.collection("Studyprogrammes")
-                .add(data)
-                .addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
-                    @Override
-                    public void onSuccess(DocumentReference documentReference) {
-                        System.out.println("added");
-                    }
-                })
-                .addOnFailureListener(new OnFailureListener() {
-                    @Override
-                    public void onFailure(@NonNull Exception e) {
-                        System.out.println("error");
-                        System.out.println(e);
-                    }
-                });
-
-
-
-
-}}
+}
 
