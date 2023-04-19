@@ -32,10 +32,13 @@
             android:id="@+id/textView6"
             android:layout_width="match_parent"
             android:layout_height="150dp"
-            android:onClick="educationInfo"
-            android:background="#10B516"
+
+
             android:layout_marginBottom="10dp"
+            android:background="@color/black"
+            android:backgroundTint="#10B516"
             android:gravity="center"
+            android:onClick="educationInfo"
             android:text="Uddannelser"
             android:textColor="@color/black"
             android:textSize="25dp" />
@@ -45,11 +48,14 @@
             android:layout_width="match_parent"
             android:layout_height="150dp"
             android:background="#10B516"
+
+            android:backgroundTint="#10B516"
             android:clickable="true"
             android:gravity="center"
             android:onClick="InterestInfo"
-            android:text="Interesser"
 
+
+            android:text="Interesser"
             android:textColor="@color/black"
             android:textSize="25dp" />
     </LinearLayout>

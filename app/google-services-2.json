@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238936682172",
+    "project_id": "ungdomsuddannelser-530bd",
+    "storage_bucket": "ungdomsuddannelser-530bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238936682172:android:939751f9c2ee704fcfaab9",
+        "android_client_info": {
+          "package_name": "com.example.ungdomsuddannelser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238936682172-tlnbf1ttubs131kvpuojiht0liebr2kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8c6cV5CXCyI2gbWSQCwSyp6-X23M38fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238936682172-tlnbf1ttubs131kvpuojiht0liebr2kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
