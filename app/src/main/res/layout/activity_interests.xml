@@ -70,21 +70,22 @@
                 android:layout_marginLeft="55dp"
                 android:layout_marginRight="35dp"
                 android:layout_weight="1"
-                android:onClick="toSprog"
-                android:background="@drawable/color" />
+                android:background="@drawable/color"
+                android:onClick="toSprog" />
+
             <TextView
                 android:id="@+id/textView21"
                 android:layout_width="match_parent"
                 android:layout_height="120dp"
-                android:onClick="toKunst"
                 android:layout_marginLeft="35dp"
                 android:layout_marginRight="55dp"
                 android:layout_weight="1"
-                android:background="@drawable/color" />
-
+                android:background="@drawable/color"
+                android:onClick="toKunst"/>
 
 
         </LinearLayout>
+
 
 
     </LinearLayout>
