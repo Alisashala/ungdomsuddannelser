@@ -109,8 +109,8 @@
 
     <ImageView
         android:id="@+id/imageView14"
-        android:layout_width="169dp"
-        android:layout_height="207dp"
+        android:layout_width="157dp"
+        android:layout_height="169dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/blomst" />

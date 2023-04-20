@@ -141,11 +141,12 @@
 
     <ImageView
         android:id="@+id/imageView8"
-        android:layout_width="208dp"
-        android:layout_height="212dp"
-        app:srcCompat="@drawable/blomst2"
-        tools:layout_editor_absoluteX="239dp"
-        tools:layout_editor_absoluteY="541dp" />
+        android:layout_width="148dp"
+        android:layout_height="157dp"
+        android:layout_marginBottom="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/blomst2" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
