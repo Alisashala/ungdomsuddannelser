@@ -5,10 +5,8 @@
     android:id="@+id/alpha"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
     android:layout_alignParentBottom="false"
     android:background="#11171E"
-    android:foregroundTint="#CDDC39"
     tools:context=".InterestsActivity">
 
 
@@ -48,8 +46,6 @@
                 android:layout_weight="1"
                 android:onClick="toKunst"
                 app:srcCompat="@drawable/samf_app_ikon" />
-
-
         </LinearLayout>
 
         <LinearLayout
@@ -78,13 +74,12 @@
                 android:onClick="toSamfundsvidenskab"
                 app:srcCompat="@drawable/musik_app_ikon" />
 
-
         </LinearLayout>
 
     </LinearLayout>
 
     <Button
-        android:id="@+id/backToMainBtn"
+        android:id="@+id/backToMenuBtn"
         android:layout_width="88dp"
         android:layout_height="59dp"
         android:layout_marginStart="4dp"
