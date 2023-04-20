@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HHXActivity">
+    <Button
+        android:id="@+id/backToMenuBtn"
+        android:layout_width="88dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="#11171E"
+        android:onClick="backToEducation"
+        android:text="Tilbage"
+        android:textColor="@color/white"
+        android:textSize="8dp"
+        app:iconTint="#6C3737"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:rippleColor="#11171E" />
+
+    <LinearLayout
+        android:layout_width="421dp"
+        android:layout_height="740dp"
+        android:background="@drawable/color"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView8"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:fontFamily="monospace"
+            android:text="HHX"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="monospace"
+
+            android:text="På hhx-uddannelsen får du både undervisning i almene fag og i fag, der handler om virksomheders økonomi, afsætningsmuligheder og retslige forhold. Du lærer at gå i dybden med fagene, at tilegne dig ny viden og at forholde dig kritisk til denne viden."
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="monospace"
+
+            android:text="I hvert skoleår er der både mundtlige og skriftlige eksaminer. I løbet af uddannelsen skal du til mindst 10 prøver, der alle tæller med i dit samlede eksamensresultat. Nogle vil være obligatoriske, fx skriftlig dansk og økonomisk grundforløb, og andre vil blive udtrukket.
+
+Når du har bestået din hhx-eksamen, får du et samlet eksamensbevis, hvori dit gennemsnit står. Du kan ikke senere forbedre dit gennemsnit."
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="monospace"
+
+
+
+            android:text="Der vil være en del skriftlige opgaver i løbet af skoletiden, og du skal også regne med at skulle bruge meget tid på forberedelse og lektier.
+
+Mange skoler arrangerer temadage og fællesarrangementer på tværs af klasser og årgange og tilbyder studiekredse og lektiecafé.
+
+"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -53,6 +53,7 @@ public class KunstActivity extends AppCompatActivity {
                         if (task.isSuccessful()) {
                             DocumentSnapshot document = task.getResult();
                             if (document.exists()) {
+                                System.out.println("Connected!");
                                 String name = document.getString("Navn");
                                 String description = document.getString("Beskrivelse");
                                 String category = document.getString("Kategori");
