@@ -13,10 +13,10 @@
         android:endColor="#002924"
         android:gradientRadius="1000"
         android:startColor="#003332"
-        android:type="radial">
+        >
     </gradient>
 
-    <corners android:radius="10dp" />
+    <corners android:radius="20dp" />
 
 </shape>
 
