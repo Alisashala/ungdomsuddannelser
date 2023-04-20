@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".InterestsActivity">
+    tools:context=".InterestsActivity"
+    android:background="#11171E">
 
     <LinearLayout
         android:layout_width="405dp"
@@ -27,58 +28,57 @@
 
             <TextView
                 android:id="@+id/textView17"
-                android:layout_width="match_parent"
-                android:layout_height="120dp"
-                android:layout_marginLeft="55dp"
-                android:layout_marginRight="35dp"
+                android:layout_width="261dp"
+                android:layout_height="141dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
                 android:layout_weight="1"
                 android:background="@drawable/color"
                 android:fontFamily="monospace"
-                android:onClick="toNaturvidenskab"
+                android:onClick="toHF"
+                android:padding="40dp"
                 android:text="HF"
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"
-                android:textStyle="bold"
-                android:padding="37dp"/>
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView19"
-                android:layout_width="match_parent"
-                android:layout_height="120dp"
-                android:layout_marginLeft="35dp"
-                android:layout_marginRight="55dp"
+                android:layout_width="258dp"
+                android:layout_height="141dp"
+                android:layout_marginRight="40dp"
                 android:layout_weight="1"
                 android:background="@drawable/color"
                 android:fontFamily="monospace"
-                android:onClick="toSamfundsvidenskab"
+                android:onClick="toSTX"
+                android:padding="37.5dp"
                 android:text="STX"
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"
-                android:textStyle="bold"
-                android:padding="37dp"/>
+                android:textStyle="bold" />
 
 
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="200dp"
+            android:layout_height="159dp"
             android:orientation="horizontal"
             android:textAlignment="center">
 
             <TextView
                 android:id="@+id/textView20"
-                android:layout_width="match_parent"
-                android:layout_height="120dp"
-                android:layout_marginLeft="55dp"
-                android:layout_marginRight="35dp"
+                android:layout_width="261dp"
+                android:layout_height="141dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
                 android:layout_weight="1"
                 android:background="@drawable/color"
                 android:fontFamily="monospace"
-                android:onClick="toSprog"
-                android:padding="37dp"
+                android:onClick="toHTX"
+                android:padding="38dp"
                 android:text="HTX"
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
@@ -87,14 +87,13 @@
 
             <TextView
                 android:id="@+id/textView21"
-                android:layout_width="match_parent"
-                android:layout_height="120dp"
-                android:layout_marginLeft="35dp"
-                android:layout_marginRight="55dp"
+                android:layout_width="261dp"
+                android:layout_height="141dp"
+                android:layout_marginRight="40dp"
                 android:layout_weight="1"
                 android:background="@drawable/color"
                 android:fontFamily="monospace"
-                android:onClick="toKunst"
+                android:onClick="toHHX"
                 android:padding="37dp"
                 android:text="HHX"
                 android:textAlignment="center"
@@ -127,10 +126,11 @@
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="92dp"
         android:fontFamily="monospace"
         android:text="Læs mere om forskellige ungdomsuddannelser"
         android:textAlignment="center"
+        android:textColor="@color/white"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
