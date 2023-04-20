@@ -24,7 +24,18 @@ public class KunstActivity extends AppCompatActivity {
     FirebaseFirestore db = FirebaseFirestore.getInstance();
 
 
-    public void getStudyProgrammes (){
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_kunst);
+        getFirstStudyProgramme();
+        getSecondStudyProgramme();
+        getThirdStudyProgramme();
+        getFourthStudyProgramme();
+    }
+    public void getFirstStudyProgramme (){
         TextView studyTitle = findViewById(R.id.titleTextView);
         TextView studyName = findViewById(R.id.textView1);
         TextView studyCategori = findViewById(R.id.textView2);
@@ -44,14 +55,14 @@ public class KunstActivity extends AppCompatActivity {
                             if (document.exists()) {
                                 String name = document.getString("Navn");
                                 String description = document.getString("Beskrivelse");
-                                String Category = document.getString("Kategori");
+                                String category = document.getString("Kategori");
                                 List<String> courses = (List<String>) document.get("Fag");
 
 
 
-                                studyTitle.setText("Uddannelse: " + name );
+                                studyTitle.setText(  name );
                                 studyName.setText(name);
-                                studyCategori.setText("Kategori: " + Category);
+                                studyCategori.setText("Kategori: " + category);
                                 studyDescription.setText( "Beskrivelse: " + description);
                                 studyCourses.setText("Fag: " + courses.toString());
                                 System.out.println(document.getData());
@@ -67,11 +78,130 @@ public class KunstActivity extends AppCompatActivity {
 
 
     }
+    public void getSecondStudyProgramme (){
+        TextView studyTitle = findViewById(R.id.secondTitleTextView);
+        TextView studyName = findViewById(R.id.secondTextView1);
+        TextView studyCategori = findViewById(R.id.secondTextView2);
+        TextView studyCourses = findViewById(R.id.secondtTextView3);
+        TextView studyDescription = findViewById(R.id.secondTextView4);
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_kunst);
-        getStudyProgrammes();
+
+
+        db.collection("studyprogrammes")
+                .document("Kunst2")
+                .get()
+                .addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
+                    @Override
+                    public void onComplete(@NonNull Task<DocumentSnapshot> task) {
+                        if (task.isSuccessful()) {
+                            DocumentSnapshot document = task.getResult();
+                            if (document.exists()) {
+                                String name = document.getString("Navn");
+                                String description = document.getString("Beskrivelse");
+                                String category = document.getString("Kategori");
+                                List<String> courses = (List<String>) document.get("Fag");
+
+
+
+                                studyTitle.setText(name);
+                                studyName.setText(name);
+                                studyCategori.setText("Kategori: " + category);
+                                studyDescription.setText( "Beskrivelse: " + description);
+                                studyCourses.setText("Fag: " + courses.toString());
+                                System.out.println(document.getData());
+
+                            } else {
+                                System.out.println("No such document");
+                            }
+                        } else {
+                            System.out.println(task.getException());
+                        }
+                    }
+                });
+
+
     }
-}
+    public void getThirdStudyProgramme (){
+        TextView studyTitle = findViewById(R.id.thirdTitleTextView);
+        TextView studyName = findViewById(R.id.thirdTextView1);
+        TextView studyCategori = findViewById(R.id.thirdTextView2);
+        TextView studyCourses = findViewById(R.id.thirdTextView3);
+        TextView studyDescription = findViewById(R.id.thirdTextView4);
+
+
+
+        db.collection("studyprogrammes")
+                .document("Kunst3")
+                .get()
+                .addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
+                    @Override
+                    public void onComplete(@NonNull Task<DocumentSnapshot> task) {
+                        if (task.isSuccessful()) {
+                            DocumentSnapshot document = task.getResult();
+                            if (document.exists()) {
+                                String name = document.getString("Navn");
+                                String description = document.getString("Beskrivelse");
+                                String category = document.getString("Kategori");
+                                List<String> courses = (List<String>) document.get("Fag");
+
+
+
+                                studyTitle.setText(  name );
+                                studyName.setText(name);
+                                studyCategori.setText("Kategori: " + category);
+                                studyDescription.setText( "Beskrivelse: " + description);
+                                studyCourses.setText("Fag: " + courses.toString());
+                                System.out.println(document.getData());
+
+                            } else {
+                                System.out.println("No such document");
+                            }
+                        } else {
+                            System.out.println(task.getException());
+                        }
+                    }
+                });
+
+    }
+    public void getFourthStudyProgramme (){
+        TextView studyTitle = findViewById(R.id.fourthTitleTextView);
+        TextView studyName = findViewById(R.id.fourthTextView1);
+        TextView studyCategori = findViewById(R.id.fourthTextView2);
+        TextView studyCourses = findViewById(R.id.fourthTextView3);
+        TextView studyDescription = findViewById(R.id.fourthTextView4);
+
+
+
+        db.collection("studyprogrammes")
+                .document("Kunst4")
+                .get()
+                .addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
+                    @Override
+                    public void onComplete(@NonNull Task<DocumentSnapshot> task) {
+                        if (task.isSuccessful()) {
+                            DocumentSnapshot document = task.getResult();
+                            if (document.exists()) {
+                                String name = document.getString("Navn");
+                                String description = document.getString("Beskrivelse");
+                                String category = document.getString("Kategori");
+                                List<String> courses = (List<String>) document.get("Fag");
+
+
+
+                                studyTitle.setText(  name );
+                                studyName.setText(name);
+                                studyCategori.setText("Kategori: " + category);
+                                studyDescription.setText( "Beskrivelse: " + description);
+                                studyCourses.setText("Fag: " + courses.toString());
+                                System.out.println(document.getData());
+
+                            } else {
+                                System.out.println("No such document");
+                            }
+                        } else {
+                            System.out.println(task.getException());
+                        }
+                    }
+                });
+
+    }}
