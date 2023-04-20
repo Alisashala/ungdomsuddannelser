@@ -10,13 +10,12 @@
     <LinearLayout
         android:layout_width="405dp"
         android:layout_height="480dp"
-        android:layout_marginTop="104dp"
+        android:layout_marginBottom="48dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
 
-        app:layout_constraintVertical_bias="0.318"
+        app:layout_constraintStart_toStartOf="parent"
         tools:ignore="MissingConstraints">
 
         <LinearLayout
@@ -106,6 +105,7 @@
 
 
     </LinearLayout>
+
     <Button
         android:id="@+id/backToMainBtn"
         android:layout_width="88dp"
@@ -126,7 +126,7 @@
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="92dp"
+        android:layout_marginTop="64dp"
         android:fontFamily="monospace"
         android:text="Læs mere om forskellige ungdomsuddannelser"
         android:textAlignment="center"
