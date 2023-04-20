@@ -2,20 +2,15 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/alpha"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
+    android:layout_alignParentBottom="false"
+    android:background="#11171E"
+    android:foregroundTint="#CDDC39"
     tools:context=".InterestsActivity">
-    <Button
-        android:id="@+id/backToMenuBtn"
-        android:onClick="backToMenu"
-        android:layout_width="73dp"
-        android:layout_height="55dp"
-        android:layout_marginTop="11dp"
-        android:text="Tilbage"
-        android:textColor="@color/black"
-        android:textSize="8dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+
 
     <LinearLayout
         android:layout_width="405dp"
@@ -31,63 +26,77 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="179dp"
+            android:layout_height="180dp"
             android:orientation="horizontal">
 
 
-            <TextView
-                android:id="@+id/textView17"
-                android:layout_width="match_parent"
-                android:layout_height="120dp"
-                android:layout_marginLeft="55dp"
-                android:layout_marginRight="35dp"
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="261dp"
+                android:layout_height="141dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
                 android:layout_weight="1"
-                android:background="@drawable/color"
-                android:onClick="toNaturvidenskab" />
+                android:onClick="toNaturvidenskab"
+                app:srcCompat="@drawable/naturvidenskab_app_ikon" />
 
-            <TextView
-                android:id="@+id/textView19"
-                android:layout_width="match_parent"
-                android:layout_height="120dp"
-                android:layout_marginLeft="35dp"
-                android:layout_marginRight="55dp"
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="258dp"
+                android:layout_height="141dp"
+                android:layout_marginRight="40dp"
                 android:layout_weight="1"
-                android:background="@drawable/color"
-                android:onClick="toSamfundsvidenskab" />
+                android:onClick="toKunst"
+                app:srcCompat="@drawable/samf_app_ikon" />
 
 
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+
+            android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <TextView
+            <ImageView
                 android:id="@+id/textView20"
-                android:layout_width="match_parent"
-                android:layout_height="120dp"
-                android:layout_marginLeft="55dp"
-                android:layout_marginRight="35dp"
+                android:layout_width="261dp"
+                android:layout_height="141dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
                 android:layout_weight="1"
                 android:onClick="toSprog"
-                android:background="@drawable/color" />
-            <TextView
-                android:id="@+id/textView21"
-                android:layout_width="match_parent"
-                android:layout_height="120dp"
-                android:onClick="toKunst"
-                android:layout_marginLeft="35dp"
-                android:layout_marginRight="55dp"
-                android:layout_weight="1"
-                android:background="@drawable/color" />
+                app:srcCompat="@drawable/sprog_app_ikon" />
 
+            <ImageView
+                android:id="@+id/textView21"
+                android:layout_width="258dp"
+                android:layout_height="141dp"
+
+                android:layout_marginRight="40dp"
+                android:layout_weight="1"
+                android:onClick="toSamfundsvidenskab"
+                app:srcCompat="@drawable/musik_app_ikon" />
 
 
         </LinearLayout>
 
-
     </LinearLayout>
 
+    <Button
+        android:id="@+id/backToMainBtn"
+        android:layout_width="88dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="#11171E"
+        android:onClick="backToMenu"
+        android:text="Tilbage"
+        android:textColor="@color/white"
+        android:textSize="8dp"
+        app:iconTint="#6C3737"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:rippleColor="#11171E" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
