@@ -54,7 +54,7 @@
                 android:layout_marginRight="50dp"
                 android:layout_weight="1"
                 android:onClick="toNaturvidenskab"
-                android:background="#10B516"
+                android:background="@drawable/color"
                 android:text="Naturvidenskab" />
 
             <TextView
@@ -65,8 +65,8 @@
                 android:layout_marginRight="50dp"
                 android:layout_weight="1"
                 android:onClick="toSamfundsvidenskab"
-                android:background="#10B516"
-                android:text="Samfundsvidenskab" />
+                android:background="@drawable/color"
+                />
 
 
         </LinearLayout>
