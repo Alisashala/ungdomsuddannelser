@@ -45,7 +45,7 @@
                 android:layout_marginRight="40dp"
                 android:layout_weight="1"
                 android:onClick="toKunst"
-                app:srcCompat="@drawable/samf_app_ikon" />
+                app:srcCompat="@drawable/musik_app_ikon" />
         </LinearLayout>
 
         <LinearLayout
@@ -72,7 +72,7 @@
                 android:layout_marginRight="40dp"
                 android:layout_weight="1"
                 android:onClick="toSamfundsvidenskab"
-                app:srcCompat="@drawable/musik_app_ikon" />
+                app:srcCompat="@drawable/samf_app_ikon" />
 
         </LinearLayout>
 
