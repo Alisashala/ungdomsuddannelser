@@ -34,4 +34,14 @@ public class InterestsActivity extends AppCompatActivity {
         Intent toMenu = new Intent(this, MenuActivity.class);
         startActivity(toMenu);
     }
+
+    public void toHF(View view) {
+        Intent toHF = new Intent(this, HFActivity.class);
+        startActivity(toHF);
+    }
+
+    public void toSTX(View view) {
+        Intent toSTX = new Intent(this, STX_Activity.class);
+        startActivity(toSTX);
+    }
 }
