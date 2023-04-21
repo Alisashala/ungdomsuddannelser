@@ -146,3 +146,12 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
 - Menuen giver brugeren et overblik over uddannelsesinfo og studieretninger. Vælg studieretninger for at komme videre til kateogorierne. 
 - Kategori siden viser de fire hovedkategorier unge kan skelne mellem, når det kommer til at vælge en stx uddannelse. Vælg musik/kunst for at komme videre til en oversigt over studieretningerne. 
 - Oversigten viser de mulige studieretninger man kan vælge mellem, hvis man er interesseret i kunst kategorien. 
+</details>
+
+<details> 
+	<summary> #Proces </summary>
+	
+- Først og fremmest fandt vi det udfordrende at anvende agile metoder til at kordinere vores projekt. At holde overblikket med github project og issues blev anvendt da vi skulle lave brugerindragelse research, men da vi skulle til at kode blev det ikke anvendt på samme måde. Derudover har vi pushet og pullet i samme master branch, som vi bagefter har indset ikke er den bedste metode, da vi har haft nogle problemer med at merge. 
+
+
+	
