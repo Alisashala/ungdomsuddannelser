@@ -52,13 +52,19 @@ Målgruppen kan have brug for hjælp til at finde og evaluere information om for
 
 ## Resultater:
 Desk Research, interviews & survey
+
 Generelle problemstillinger for unge når de skal vælge en ungdomsuddannelse:
-Valgmuligheder: Der er en bred vifte af uddannelsesmuligheder, og det kan være svært for unge mennesker at finde ud af, hvad de skal vælge.
-Mangel på information: Nogle unge kan have svært ved at få adgang til tilstrækkelig information om de forskellige uddannelsesmuligheder og de karrieremuligheder, som uddannelserne kan føre til.
-Forventningspres: Unge kan opleve pres fra familie, venner og samfundet generelt om at vælge en bestemt uddannelse eller karrierevej.
-Manglende selvtillid: Nogle unge kan have svært ved at vurdere deres evner og interesser og dermed have svært ved at vælge en uddannelse, de føler sig sikre på.
-Valget af ungdomsuddannelse er en del af en identitetsudviklende proces, og unge vælger efter interesser og faglige dygtigheder. Uddannelsesvalget definerer en ny rolle, som de selv kan påvirke.
-Unge påvirkes af deres nære relationer som familie, venner og skolekammerater, når de vælger uddannelse. Forældre har indflydelse på deres uddannelsesvalg gennem deres familiestruktur, indkomstgrundlag og egen uddannelsesbaggrund.
+- Valgmuligheder: Der er en bred vifte af uddannelsesmuligheder, og det kan være svært for unge mennesker at finde ud af, hvad de skal vælge.
+
+- Mangel på information: Nogle unge kan have svært ved at få adgang til tilstrækkelig information om de forskellige uddannelsesmuligheder og de karrieremuligheder, som uddannelserne kan føre til.
+
+- Forventningspres: Unge kan opleve pres fra familie, venner og samfundet generelt om at vælge en bestemt uddannelse eller karrierevej.
+
+- Manglende selvtillid: Nogle unge kan have svært ved at vurdere deres evner og interesser og dermed have svært ved at vælge en uddannelse, de føler sig sikre på.
+
+- Valget af ungdomsuddannelse er en del af en identitetsudviklende proces, og unge vælger efter interesser og faglige dygtigheder. Uddannelsesvalget definerer en ny rolle, som de selv kan påvirke.
+
+- Unge påvirkes af deres nære relationer som familie, venner og skolekammerater, når de vælger uddannelse. Forældre har indflydelse på deres uddannelsesvalg gennem deres familiestruktur, indkomstgrundlag og egen uddannelsesbaggrund.
 
 <details>
   <summary> UX Storyboard </summary>
