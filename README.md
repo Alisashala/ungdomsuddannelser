@@ -16,8 +16,32 @@ Der var dog en bias i vores survey, som gør at vores svar fx. viser at det prim
 En af de primære metoder, vi anvendte i vores brugerundersøgelse, var semi-strukturerede interviews med vores målgruppe. 
 For at forberede vores interviews skrev vi en interviewguide, der omfattede en række åbne spørgsmål, som vi ønskede at udforske. Vi sørgede for at have en overordnet struktur for interviewet, men som samtidig gav vores brugere mulighed for at uddybe deres svar og perspektiver. 
 Semistrukturerede interviews passede til vores målgruppe, da det gav os mulighed for at stille uddybende spørgsmål, der kunne afsløre vigtige indsigter samt løsninger. Denne fleksibilitet gjorde det også muligt for brugeren at tale frit, og dele deres egne historier og følelser.
-Desk research
-Vi gjorde brug af platforme såsom infomedia, google og google scholar til at indsamle viden om vores problemstilling. Alt fra normale til videnskabelige artikler og undersøgelsesrapporter er taget i brug. 
+
+### Desk Research
+For at få en generel ide om problemets omfang, har i benyttet os af desk reseach. Vi gjorde brug af platforme såsom infomedia, google og google scholar til at indsamle viden om vores problemstilling. Alt fra normale til videnskabelige artikler og undersøgelsesrapporter er taget i brug. 
+
+<details>
+  <summary> Desk research links/kilder </summary>
+
+- https://www.eva.dk/ungdomsuddannelse/gymnasiet-er-naturlige-valg-ungesynet-paa-ungdomsuddannelserne-blandt-unge-9-klasse-0
+- https://www.eva.dk/grundskole/valg-ungdomsuddannelse
+- https://danskegymnasier.dk/kort-over-danmarks-ungdomsuddannelser/
+- https://companyoung.com/ydelser/viden-indsigt/unges-valg-af-uddannelse/
+- https://www.ft.dk/samling/20161/almdel/ul%C3%B8/bilag/64/1718465.pdf
+- https://jyllands-posten.dk/debat/ECE11614213/de-unge-foeler-sig-pressede-over-deres-uddannelsesvalg-her-er-tre-ting-vi-kan-goere-for-dem/
+- https://www.dst.dk/da/Statistik/emner/uddannelse-og-forskning/befolkningens-uddannelsesstatus/unges-status-paa-ungdomsuddannelser
+- https://dea.nu/i-farver/publikationer/analyseprojekt-hvad-driver-de-unges-uddannelsesvalg/
+- https://oerestadgym.dk/
+- https://sag.dk/
+- https://gengym.dk/3-aarig-hf/
+- https://nextkbh.dk/gymnasier/koebenhavns-mediegymnasium/
+- https://nielsbrock.dk/handelsgymnasier/handelsgymnasiet-jtp
+- https://www.zbc.dk/htx/htx-studieretninger-i-slagelse/robotteknologi
+- https://www.teamdanmark.dk/uddannelse/uddannelsespartnere/
+- https://www.ug.dk/
+	
+	
+  </details>  
 
 ### Målgruppe
 Vi fandt frem til målgruppen via vores user research, i form af både survey, interview og desk research. Ud fra vores user research, blev målgruppens problem tydeligt.
