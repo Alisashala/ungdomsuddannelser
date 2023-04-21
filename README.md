@@ -140,7 +140,8 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
   
 ## Konklusion:
 <details> 
-<summary> #Løsning/Userflow </summary> 
+<summary> Løsning/Userflow </summary> 
+	
 - Forside der introducerer brugeren til uddannelsesNav. Tryk på udforsk for at komme videre til hovedmenu.
 - Menuen giver brugeren et overblik over uddannelsesinfo og studieretninger. Vælg studieretninger for at komme videre til kateogorierne. 
 - Kategori siden viser de fire hovedkategorier unge kan skelne mellem, når det kommer til at vælge en stx uddannelse. Vælg musik/kunst for at komme videre til en oversigt over studieretningerne. 
