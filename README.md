@@ -160,7 +160,7 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
 	- Kodningen foregik hvor vi sad samlet og udviklet på vores app. Det fandt vi nemmere, så vi kunne kommunikere om alle vores ideer til appen. 
 
 - Brugerinddragelse 
-	- Brugerindragelses research var oplagt for os, da vi havde venner og familie som gav os adgang til interviews og mange survey svar. 
+	- Brugerindragelses research var oplagt for os, da vi havde venner og familie imålgruppen som gav os adgang til interviews og mange survey svar. 
 	
 
 </details>
