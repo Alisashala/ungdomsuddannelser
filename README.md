@@ -62,19 +62,31 @@ Journey mappen gav os et større overblik over brugerrejsen og oplevelsen, og fr
   <summary> Persona </summary>
 Efter en samling af vigtige indsigter og pointer, valgte vi at inddrage personaer som et redskab til vores brugerundersøgelse.
 Alfred og Marie er fiktive brugerprofiler, der repræsenterer vores brugere baseret på data fra vores user research. Personaerne hjalp os med at skabe nogle effektive designs, der kommunikerer vores viden om brugerne. Dette har givet os en dybere forståelse af vores brugeres baggrund, mål og udfordringer. Eksempelvis er personernes quotes baseret på de rigtige svar vi fik fra vores survey.
-Moodboard
-Vores moodboard hjælper os med at fange essensen af vores app, som er denne jordnære, rolige og informerende app. 
 	
 
 ![persona](https://user-images.githubusercontent.com/111958199/233587486-164fbc04-d500-4583-b694-931b844edf4f.png)
 	
 	
   </details>
+  
+<details>
+   <summary> Moodboard </summary>
+Vores moodboard hjælper os med at fange essensen af vores app, som er denne jordnære, rolige og informerende app. 
+	
+	
+![moodboard ug](https://user-images.githubusercontent.com/111958199/233589593-d58a55e0-ec59-4aae-96ba-7c547de5351f.png)
 
-
+	
+ </details>
+ 
 <details>
   <summary> Style tile </summary>
 For at finde frem til den generelle æstetiske ide til appen, har vi benyttet os af et style tile. Det er en visuel hjælp, som hjalp os med at få fastlagt ting såsom farver og typografi.
+	
+
+![style tile ug](https://user-images.githubusercontent.com/111958199/233590496-38e1a020-db6c-4e80-b8b9-08d23b60b826.png)
+
+	
   </details>  
 
 <details>
@@ -82,6 +94,19 @@ For at finde frem til den generelle æstetiske ide til appen, har vi benyttet os
 Vi har anvendt mockups som et af vores sidste trin i brugerundersøgelsesprocessen. Vores mockups er en visuel repræsentation af designet af vores produkt, som var designet på baggrund af vores forståelse af brugernes behov og ønsker. Hovedsageligt brugte vi vores mockups som et kommunikationsværktøj i gruppen, og for at blive enige om hvilken æstetisk vej vi skulle gå, med vores style tile in mente.
 
 Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, minimalistic, ui ux, ux/ux, light colors, Dark blue elements, green, test function, school, blue aura, quiz, quizzing
+	
+![mockup 1](https://user-images.githubusercontent.com/111958199/233592590-4384b476-5d3a-4a5a-881b-932eed01aa85.png)
+
+![mockup 2](https://user-images.githubusercontent.com/111958199/233592718-68b63b36-d0a0-40fd-876f-9c7d1669ed02.png)
+
+![mockup 3](https://user-images.githubusercontent.com/111958199/233592477-a696edb0-cb54-45b3-b5a1-984018e2c131.png)
+
+![mockup 4](https://user-images.githubusercontent.com/111958199/233592459-a3151d91-a238-4e49-af43-f81ddcd55bd2.png)
+
+	
+![mockup 5](https://user-images.githubusercontent.com/111958199/233592380-4bff8e3b-df06-4a2b-af9a-8f27f79c8308.png)
+
+	
   </details>
 																																																
 ## Konklusion:
