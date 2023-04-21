@@ -105,6 +105,7 @@ Vores moodboard hjælper os med at fange essensen af vores app, som er denne jor
 <details>
   <summary> Style tile </summary>
 For at finde frem til den generelle æstetiske ide til appen, har vi benyttet os af et style tile. Det er en visuel hjælp, som hjalp os med at få fastlagt ting såsom farver og typografi.
+Vi har valgt at bruge blå, grøn og orange som primære farver, da det understøtter vores apps essence (ting såsom kompatance, glæde, tillid, natur, ect.)
 	
 
 ![style tile ug](https://user-images.githubusercontent.com/111958199/233590496-38e1a020-db6c-4e80-b8b9-08d23b60b826.png)
