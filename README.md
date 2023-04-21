@@ -59,7 +59,7 @@ Journey mappen gav os et større overblik over brugerrejsen og oplevelsen, og fr
 <details>
   <summary> Persona </summary>
 Efter en samling af vigtige indsigter og pointer, valgte vi at inddrage personaer som et redskab til vores brugerundersøgelse.
-Alfred og Marie er fiktive brugerprofiler, der repræsenterer vores brugere baseret på data fra vores user research. Personaerne hjalp os med at skabe nogle effektive designs, der kommunikerer vores viden om brugerne. Dette har givet os en dybere forståelse af vores brugeres baggrund, mål og udfordringer. Eksempelvis er personernes quotes baseret på de rigtige svar vi fik fra vores survey.	
+Alfred og Marie er fiktive brugerprofiler, der repræsenterer vores brugere baseret på data fra vores survey. Personaerne hjalp os med at skabe nogle effektive designs, der kommunikerer vores viden om brugerne. Dette har givet os en dybere forståelse af vores brugeres baggrund, mål og udfordringer. Eksempelvis er personernes quotes baseret på de rigtige svar vi fik fra vores survey.	
 
 ![persona](https://user-images.githubusercontent.com/111958199/233587486-164fbc04-d500-4583-b694-931b844edf4f.png)
 ***Lavet i figma***
