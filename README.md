@@ -39,6 +39,10 @@ Unge påvirkes af deres nære relationer som familie, venner og skolekammerater,
 Storyboardet viser Emma's rejse gennem den komplekse beslutningsproces vedrørende valg af en ungdomsuddannelse. I starten er hun stresset og føler sig presset af tiden og forventningerne fra omverdenen. Hun undersøger forskellige uddannelsesmuligheder, men føler sig stadig forvirret og frustreret. Hendes eksterne faktorer, såsom forældre, venner og lærere, er også involveret i beslutningsprocessen, hvilket kan gøre det endnu mere udfordrende for Emma at tage den rigtige beslutning.
 I midten af storyboardet introduceres en ny app, der kan give Emma bedre overblik og information omkring hendes uddannelsesvalg. Hun bruger app'en til at undersøge forskellige uddannelsesmuligheder og træffe en informeret beslutning. Til sidst er Emma glad og lettet over at have truffet en beslutning omkring sin ungdomsuddannelse.
 Storyboardet viser, hvordan vores app kan hjælpe unge mennesker som Emma med at navigere gennem den komplekse beslutningsproces ved at give dem den nødvendige information og overblik over uddannelsesmulighederne.
+	
+![storyboard](https://user-images.githubusercontent.com/111958199/233578994-978812ab-e2b5-4db3-b9f0-436e701f0317.png)
+
+	
   </details>
 
 <details>
