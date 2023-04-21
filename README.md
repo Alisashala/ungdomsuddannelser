@@ -16,8 +16,32 @@ Der var dog en bias i vores survey, som gør at vores svar fx. viser at det prim
 En af de primære metoder, vi anvendte i vores brugerundersøgelse, var semi-strukturerede interviews med vores målgruppe. 
 For at forberede vores interviews skrev vi en interviewguide, der omfattede en række åbne spørgsmål, som vi ønskede at udforske. Vi sørgede for at have en overordnet struktur for interviewet, men som samtidig gav vores brugere mulighed for at uddybe deres svar og perspektiver. 
 Semistrukturerede interviews passede til vores målgruppe, da det gav os mulighed for at stille uddybende spørgsmål, der kunne afsløre vigtige indsigter samt løsninger. Denne fleksibilitet gjorde det også muligt for brugeren at tale frit, og dele deres egne historier og følelser.
-Desk research
-Vi gjorde brug af platforme såsom infomedia, google og google scholar til at indsamle viden om vores problemstilling. Alt fra normale til videnskabelige artikler og undersøgelsesrapporter er taget i brug. 
+
+### Desk Research
+For at få en generel ide om problemets omfang, har i benyttet os af desk reseach. Vi gjorde brug af platforme såsom infomedia, google og google scholar til at indsamle viden om vores problemstilling. Alt fra normale til videnskabelige artikler og undersøgelsesrapporter er taget i brug. 
+
+<details>
+  <summary> Desk research links/kilder </summary>
+
+- https://www.eva.dk/ungdomsuddannelse/gymnasiet-er-naturlige-valg-ungesynet-paa-ungdomsuddannelserne-blandt-unge-9-klasse-0
+- https://www.eva.dk/grundskole/valg-ungdomsuddannelse
+- https://danskegymnasier.dk/kort-over-danmarks-ungdomsuddannelser/
+- https://companyoung.com/ydelser/viden-indsigt/unges-valg-af-uddannelse/
+- https://www.ft.dk/samling/20161/almdel/ul%C3%B8/bilag/64/1718465.pdf
+- https://jyllands-posten.dk/debat/ECE11614213/de-unge-foeler-sig-pressede-over-deres-uddannelsesvalg-her-er-tre-ting-vi-kan-goere-for-dem/
+- https://www.dst.dk/da/Statistik/emner/uddannelse-og-forskning/befolkningens-uddannelsesstatus/unges-status-paa-ungdomsuddannelser
+- https://dea.nu/i-farver/publikationer/analyseprojekt-hvad-driver-de-unges-uddannelsesvalg/
+- https://oerestadgym.dk/
+- https://sag.dk/
+- https://gengym.dk/3-aarig-hf/
+- https://nextkbh.dk/gymnasier/koebenhavns-mediegymnasium/
+- https://nielsbrock.dk/handelsgymnasier/handelsgymnasiet-jtp
+- https://www.zbc.dk/htx/htx-studieretninger-i-slagelse/robotteknologi
+- https://www.teamdanmark.dk/uddannelse/uddannelsespartnere/
+- https://www.ug.dk/
+	
+	
+  </details>  
 
 ### Målgruppe
 Vi fandt frem til målgruppen via vores user research, i form af både survey, interview og desk research. Ud fra vores user research, blev målgruppens problem tydeligt.
@@ -59,7 +83,7 @@ Journey mappen gav os et større overblik over brugerrejsen og oplevelsen, og fr
 <details>
   <summary> Persona </summary>
 Efter en samling af vigtige indsigter og pointer, valgte vi at inddrage personaer som et redskab til vores brugerundersøgelse.
-Alfred og Marie er fiktive brugerprofiler, der repræsenterer vores brugere baseret på data fra vores user research. Personaerne hjalp os med at skabe nogle effektive designs, der kommunikerer vores viden om brugerne. Dette har givet os en dybere forståelse af vores brugeres baggrund, mål og udfordringer. Eksempelvis er personernes quotes baseret på de rigtige svar vi fik fra vores survey.	
+Alfred og Marie er fiktive brugerprofiler, der repræsenterer vores brugere baseret på data fra vores survey. Personaerne hjalp os med at skabe nogle effektive designs, der kommunikerer vores viden om brugerne. Dette har givet os en dybere forståelse af vores brugeres baggrund, mål og udfordringer. Eksempelvis er personernes quotes baseret på de rigtige svar vi fik fra vores survey.	
 
 ![persona](https://user-images.githubusercontent.com/111958199/233587486-164fbc04-d500-4583-b694-931b844edf4f.png)
 ***Lavet i figma***
@@ -104,5 +128,30 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
 ***Lavet med midjourney***
 	
   </details>
-																																																
+		
+
+<details>
+  <summary> Links til figma og lucidchart </summary>
+	
+- [Figma link](https://www.figma.com/file/UDZbGUlbWwJ4j8LaQqJfLZ/Style-tile-%2B-moodboard?node-id=0%3A1&t=0fpOsEohs5KgXOhJ-1)
+- [Lucidchart link, hvor man skla være logget ind for at se det](https://lucid.app/lucidspark/ef8c4a9a-b2a1-469b-b99e-4fb3bf39422b/edit?viewport_loc=-458%2C-195%2C3567%2C1878%2C0_0&invitationId=inv_3482b537-f746-47cf-9f25-c6eb9a941057)
+	
+  </details>
+  
 ## Konklusion:
+<details> 
+<summary> Løsning/Userflow </summary> 
+	
+- Forside der introducerer brugeren til uddannelsesNav. Tryk på udforsk for at komme videre til hovedmenu.
+- Menuen giver brugeren et overblik over uddannelsesinfo og studieretninger. Vælg studieretninger for at komme videre til kateogorierne. 
+- Kategori siden viser de fire hovedkategorier unge kan skelne mellem, når det kommer til at vælge en stx uddannelse. Vælg musik/kunst for at komme videre til en oversigt over studieretningerne. 
+- Oversigten viser de mulige studieretninger man kan vælge mellem, hvis man er interesseret i kunst kategorien. 
+</details>
+
+<details> 
+	<summary> #Proces </summary>
+	
+- Først og fremmest fandt vi det udfordrende at anvende agile metoder til at kordinere vores projekt. At holde overblikket med github project og issues blev anvendt da vi skulle lave brugerindragelse research, men da vi skulle til at kode blev det ikke anvendt på samme måde. Derudover har vi pushet og pullet i samme master branch, som vi bagefter har indset ikke er den bedste metode, da vi har haft nogle problemer med at merge. 
+
+
+	
