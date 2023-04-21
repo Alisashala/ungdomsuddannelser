@@ -104,5 +104,14 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
 ***Lavet med midjourney***
 	
   </details>
-																																																
+		
+
+<details>
+  <summary> Links til figma og lucidchart </summary>
+	
+- [Figma link](https://www.figma.com/file/UDZbGUlbWwJ4j8LaQqJfLZ/Style-tile-%2B-moodboard?node-id=0%3A1&t=0fpOsEohs5KgXOhJ-1)
+- [Lucidchart link, hvor man skla være logget ind for at se det](https://lucid.app/lucidspark/ef8c4a9a-b2a1-469b-b99e-4fb3bf39422b/edit?viewport_loc=-458%2C-195%2C3567%2C1878%2C0_0&invitationId=inv_3482b537-f746-47cf-9f25-c6eb9a941057)
+	
+  </details>
+  
 ## Konklusion:
