@@ -64,6 +64,11 @@ Efter en samling af vigtige indsigter og pointer, valgte vi at inddrage personae
 Alfred og Marie er fiktive brugerprofiler, der repræsenterer vores brugere baseret på data fra vores user research. Personaerne hjalp os med at skabe nogle effektive designs, der kommunikerer vores viden om brugerne. Dette har givet os en dybere forståelse af vores brugeres baggrund, mål og udfordringer. Eksempelvis er personernes quotes baseret på de rigtige svar vi fik fra vores survey.
 Moodboard
 Vores moodboard hjælper os med at fange essensen af vores app, som er denne jordnære, rolige og informerende app. 
+	
+
+![persona](https://user-images.githubusercontent.com/111958199/233587486-164fbc04-d500-4583-b694-931b844edf4f.png)
+	
+	
   </details>
 
 
