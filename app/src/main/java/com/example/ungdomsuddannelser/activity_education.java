@@ -27,5 +27,14 @@ public class activity_education extends AppCompatActivity {
         Intent toHHX = new Intent(this, HHXActivity.class);
         startActivity(toHHX);
     }
+    public void toHF(View view) {
+        Intent toHF = new Intent(this, HFActivity.class);
+        startActivity(toHF);
+    }
+
+    public void toSTX(View view) {
+        Intent toSTX = new Intent(this, STX_Activity.class);
+        startActivity(toSTX);
+    }
 
 }
