@@ -40,6 +40,7 @@ Storyboardet viser Emma's rejse gennem den komplekse beslutningsproces vedrøren
 I midten af storyboardet introduceres en ny app, der kan give Emma bedre overblik og information omkring hendes uddannelsesvalg. Hun bruger app'en til at undersøge forskellige uddannelsesmuligheder og træffe en informeret beslutning. Til sidst er Emma glad og lettet over at have truffet en beslutning omkring sin ungdomsuddannelse.
 Storyboardet viser, hvordan vores app kan hjælpe unge mennesker som Emma med at navigere gennem den komplekse beslutningsproces ved at give dem den nødvendige information og overblik over uddannelsesmulighederne.
 	
+	
 ![storyboard](https://user-images.githubusercontent.com/111958199/233578994-978812ab-e2b5-4db3-b9f0-436e701f0317.png)
 
 	
@@ -50,6 +51,11 @@ Storyboardet viser, hvordan vores app kan hjælpe unge mennesker som Emma med at
 Som en del af vores brugerundersøgelse, lavede vi et user journey map for at forstå vores brugeres oplevelse med vores produkt, samt vejen dertil. Den skildrer visuelt brugerens rejse gennem forskellige stadier, herunder indledende bevidsthed, tanker, beslutningstagning, overvejelser mm. 
 Journey mappen blev skabt gennem en kombination af kvalitative metoder, herunder dybdegående interviews. Baseret på dette indsamlede vi nøgle indsigter fra brugerne, for at skabe et omfattende kort, der nøjagtigt afspejler brugeroplevelsen og deres tænkningsproces. 
 Journey mappen gav os et større overblik over brugerrejsen og oplevelsen, og fremhævede de vigtigste pointer. Derudover kunne vi gennem journey mappen identificere smertepunkter, motivation, mål og behov, og fik dermed en dybere forståelse af vores brugere. 
+	
+	
+![journey map](https://user-images.githubusercontent.com/111958199/233586787-e94c4132-abdd-4dc5-b728-28e72ef0c83d.png)
+	
+	
   </details>  
 
 <details>
