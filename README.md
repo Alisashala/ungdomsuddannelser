@@ -42,7 +42,7 @@ Storyboardet viser, hvordan vores app kan hjælpe unge mennesker som Emma med at
 	
 	
 ![storyboard](https://user-images.githubusercontent.com/111958199/233578994-978812ab-e2b5-4db3-b9f0-436e701f0317.png)
-	
+***Lavet i figma***	
   </details>
 
 <details>
