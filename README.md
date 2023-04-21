@@ -159,10 +159,13 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
 - Applikationsudvikling 
 	- Kodningen i projektet var opdelt således at Mads Stod for firebase opsætningen og Klara og Alisa stod for app design. 
 	- Koden er dokumenteret i android studios med vores github brugernavn.
-	- Kodningen foregik hvor vi sad samlet og udviklet på vores app. Det fandt vi nemmere, så vi kunne kommunikere om alle vores ideer til appen. 
+	- Kodningen foregik hvor vi sad samlet og udviklet på vores app. Det fandt vi nemmere, så vi kunne kommunikere om alle vores ideer til appen.
+	- Vores app blev ikke testet på en adroid telefon, da vi ikke havde nogle tilgængelig. 
 
 - Brugerinddragelse 
-	- Brugerindragelses research var oplagt for os, da vi havde venner og familie som gav os adgang til interviews og mange survey svar. 
+	- Brugerindragelses research var oplagt for os, da vi havde venner og familie i målgruppen, som gav os adgang til interviews og mange survey svar.
+	- Vi fik ikke muligheden for at vise appen til vores målgruppe og har derfor ikke noget feedback. 
+	
 	
 
 </details>
