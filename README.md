@@ -12,7 +12,10 @@ For at besvare ovenstående problemstilling, har vi gennemført en kombination a
 Vi valgte at benytte os af surveys som en af vores primære metoder, da det er en god måde at få både kvantitative og kvalitative svar på. Kvantitative da det fx. gav os et overblik over hvilke grupper af mennesker som stod overfor dette problem, og kvalitative da vi fik mange detaljerede svar, som uddybede og forklarede deres synsvinkel.
 Der var dog en bias i vores survey, som gør at vores svar fx. viser at det primært er piger som er i tvivl, når det kommer til deres ungdomsuddannelse. Dette bias opstod, da vi sendte vores survey til Humble musikefterskole, og fik en masse svar derfra.  Generelt set starter folk på den skole, hvis de har store ambitioner inde for musik- men når det er sagt, så er det generelt set mest drengene, som er “seriøse” omkring det. Derfor kunne dette være årsagen til, at de fleste drenge i vores survey ikke var i tvivl om deres ungdomsuddannelsesvalg. På samme tid, er musik en generel faktor i vores svar, som giver god mening hvis man har det in mente, at de hovedsageligt kommer fra en gruppe af unge som elsker musik. 
 
-[Link til survey svar](https://docs.google.com/spreadsheets/d/1QBxmuNCa6OTO8kJ9MKrvjzjx9eWGwKf9A4I8xrkysTU/edit#gid=972226437)
+![Antal Hvad identificerer du dig som_ (1)](https://user-images.githubusercontent.com/111958199/233621149-7a5865d0-8bb7-4736-85e9-adb7c3ac38d9.png)
+
+Hvis du vil læse survey svar:
+[Survey](https://docs.google.com/spreadsheets/d/1QBxmuNCa6OTO8kJ9MKrvjzjx9eWGwKf9A4I8xrkysTU/edit#gid=972226437)
 
 ### Interview
 En af de primære metoder, vi anvendte i vores brugerundersøgelse, var semi-strukturerede interviews med vores målgruppe. 
