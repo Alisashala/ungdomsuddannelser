@@ -37,7 +37,6 @@ public class KunstActivity extends AppCompatActivity {
     }
     public void getFirstStudyProgramme (){
         TextView studyTitle = findViewById(R.id.titleTextView);
-        TextView studyName = findViewById(R.id.textView1);
         TextView studyCategori = findViewById(R.id.textView2);
         TextView studyCourses = findViewById(R.id.textView3);
         TextView studyDescription = findViewById(R.id.textView4);
@@ -62,7 +61,6 @@ public class KunstActivity extends AppCompatActivity {
 
 
                                 studyTitle.setText(  name );
-                                studyName.setText(name);
                                 studyCategori.setText("Kategori: " + category);
                                 studyDescription.setText( "Beskrivelse: " + description);
                                 studyCourses.setText("Fag: " + courses.toString());
@@ -81,7 +79,6 @@ public class KunstActivity extends AppCompatActivity {
     }
     public void getSecondStudyProgramme (){
         TextView studyTitle = findViewById(R.id.secondTitleTextView);
-        TextView studyName = findViewById(R.id.secondTextView1);
         TextView studyCategori = findViewById(R.id.secondTextView2);
         TextView studyCourses = findViewById(R.id.secondtTextView3);
         TextView studyDescription = findViewById(R.id.secondTextView4);
@@ -105,7 +102,6 @@ public class KunstActivity extends AppCompatActivity {
 
 
                                 studyTitle.setText(name);
-                                studyName.setText(name);
                                 studyCategori.setText("Kategori: " + category);
                                 studyDescription.setText( "Beskrivelse: " + description);
                                 studyCourses.setText("Fag: " + courses.toString());
@@ -124,7 +120,6 @@ public class KunstActivity extends AppCompatActivity {
     }
     public void getThirdStudyProgramme (){
         TextView studyTitle = findViewById(R.id.thirdTitleTextView);
-        TextView studyName = findViewById(R.id.thirdTextView1);
         TextView studyCategori = findViewById(R.id.thirdTextView2);
         TextView studyCourses = findViewById(R.id.thirdTextView3);
         TextView studyDescription = findViewById(R.id.thirdTextView4);
@@ -148,7 +143,6 @@ public class KunstActivity extends AppCompatActivity {
 
 
                                 studyTitle.setText(  name );
-                                studyName.setText(name);
                                 studyCategori.setText("Kategori: " + category);
                                 studyDescription.setText( "Beskrivelse: " + description);
                                 studyCourses.setText("Fag: " + courses.toString());
@@ -166,7 +160,6 @@ public class KunstActivity extends AppCompatActivity {
     }
     public void getFourthStudyProgramme (){
         TextView studyTitle = findViewById(R.id.fourthTitleTextView);
-        TextView studyName = findViewById(R.id.fourthTextView1);
         TextView studyCategori = findViewById(R.id.fourthTextView2);
         TextView studyCourses = findViewById(R.id.fourthTextView3);
         TextView studyDescription = findViewById(R.id.fourthTextView4);
@@ -190,7 +183,6 @@ public class KunstActivity extends AppCompatActivity {
 
 
                                 studyTitle.setText(  name );
-                                studyName.setText(name);
                                 studyCategori.setText("Kategori: " + category);
                                 studyDescription.setText( "Beskrivelse: " + description);
                                 studyCourses.setText("Fag: " + courses.toString());

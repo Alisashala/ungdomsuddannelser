@@ -5,7 +5,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".KunstActivity">
+    tools:context=".KunstActivity"
+    android:background="#161521">
   <!-- Sektion 1 -->
 
   <!-- Sektion 2 -->
@@ -19,18 +20,19 @@
       app:layout_constraintTop_toTopOf="parent">
 
     <LinearLayout
-        android:id="@+id/linearLayout1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border"
+        android:padding="5dp">
 
       <TextView
           android:id="@+id/titleTextView"
-          android:textColor="@color/black"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:gravity="center"
-          android:text="Beskrivelse 1"
+          android:textColor="@color/white"
           android:textSize="20sp"
           android:textStyle="bold" />
 
@@ -40,50 +42,58 @@
           android:orientation="horizontal">
 
         <TextView
-            android:id="@+id/textView1"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Tekst 11"
-            android:textSize="16sp" />
-
-        <TextView
             android:id="@+id/textView2"
             android:layout_width="0dp"
+            android:textColor="@color/white"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tekst 12"
+            android:padding="10dp"
+            android:layout_marginLeft="10dp"
             android:textSize="16sp" />
 
         <TextView
             android:id="@+id/textView3"
             android:layout_width="0dp"
+            android:padding="10dp"
+            android:layout_marginRight="10dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tekst 13"
-            android:textSize="16sp" />
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
+            android:textSize="16sp"/>
       </LinearLayout>
 
       <TextView
           android:id="@+id/textView4"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content"
-          android:text="Tekst 14"
-          android:textSize="16sp" />
+          android:layout_height="90dp"
+          android:fontFamily="monospace"
+          android:gravity="center"
+          android:padding="12dp"
+          android:textColor="@color/white"
+          android:textSize="14sp"
+          app:layout_constraintBottom_toBottomOf="parent"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toTopOf="parent"
+          app:layout_constraintVertical_bias="0.5" />
 
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border"
+        android:padding="5dp">
 
       <TextView
           android:id="@+id/secondTitleTextView"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:gravity="center"
-          android:text="Beskrivelse 2"
+          android:textColor="@color/white"
           android:textSize="20sp"
           android:textStyle="bold" />
 
@@ -92,20 +102,15 @@
           android:layout_height="wrap_content"
           android:orientation="horizontal">
 
-        <TextView
-            android:id="@+id/secondTextView1"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Tekst 21"
-            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/secondTextView2"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tekst 22"
+            android:padding="10dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/white"
             android:textSize="16sp" />
 
         <TextView
@@ -113,31 +118,46 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tekst 23"
-            android:textSize="16sp" />
+            android:layout_marginRight="10dp"
+            android:padding="10dp"
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
+            android:textSize="16sp"/>
       </LinearLayout>
 
       <TextView
           android:id="@+id/secondTextView4"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content"
-          android:text="Tekst 24"
-          android:textSize="16sp" />
+          android:layout_height="90dp"
+          android:fontFamily="monospace"
+          android:gravity="center"
+          android:text="loading..."
+          android:padding="12dp"
+          android:textColor="@color/white"
+          android:textSize="14sp"
+          app:layout_constraintBottom_toBottomOf="parent"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toTopOf="parent"
+          app:layout_constraintVertical_bias="0.5" />
 
     </LinearLayout>
 
     <LinearLayout
         android:id="@+id/linearLayout2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border"
+        android:padding="5dp">
 
       <TextView
           android:id="@+id/thirdTitleTextView"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:gravity="center"
-          android:text="Beskrivelse 1"
+          android:textColor="@color/white"
           android:textSize="20sp"
           android:textStyle="bold" />
 
@@ -146,52 +166,60 @@
           android:layout_height="wrap_content"
           android:orientation="horizontal">
 
-        <TextView
-            android:id="@+id/thirdTextView1"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Tekst 11"
-            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/thirdTextView2"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tekst 12"
+            android:layout_marginLeft="10dp"
+            android:padding="10dp"
+            android:textColor="@color/white"
             android:textSize="16sp" />
 
         <TextView
             android:id="@+id/thirdTextView3"
-            android:layout_width="0dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tekst 13"
+            android:padding="10dp"
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
             android:textSize="16sp" />
       </LinearLayout>
 
       <TextView
           android:id="@+id/thirdTextView4"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content"
-          android:text="Tekst 14"
-          android:textSize="16sp" />
+          android:layout_height="90dp"
+          android:fontFamily="monospace"
+          android:gravity="center"
+          android:padding="12dp"
+          android:textColor="@color/white"
+          android:textSize="14sp"
+          app:layout_constraintBottom_toBottomOf="parent"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toTopOf="parent"
+          app:layout_constraintVertical_bias="0.5"/>
 
     </LinearLayout>
 
     <LinearLayout
         android:id="@+id/linearLayout3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border"
+        android:padding="5dp">
 
       <TextView
           android:id="@+id/fourthTitleTextView"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:gravity="center"
-          android:text="Beskrivelse 1"
+          android:textColor="@color/white"
           android:textSize="20sp"
           android:textStyle="bold" />
 
@@ -200,20 +228,15 @@
           android:layout_height="wrap_content"
           android:orientation="horizontal">
 
-        <TextView
-            android:id="@+id/fourthTextView1"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Tekst 11"
-            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/fourthTextView2"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tekst 12"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:layout_marginLeft="10dp"
             android:textSize="16sp" />
 
         <TextView
@@ -221,16 +244,27 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tekst 13"
-            android:textSize="16sp" />
+            android:layout_marginRight="10dp"
+            android:padding="10dp"
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
+            android:textSize="16sp"/>
       </LinearLayout>
 
       <TextView
           android:id="@+id/fourthTextView4"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content"
-          android:text="Tekst 14"
-          android:textSize="16sp" />
+          android:layout_height="90dp"
+          android:fontFamily="monospace"
+          android:gravity="center"
+          android:textColor="@color/white"
+          android:textSize="14sp"
+          android:padding="12dp"
+          app:layout_constraintBottom_toBottomOf="parent"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toTopOf="parent"
+          app:layout_constraintVertical_bias="0.5" />
 
     </LinearLayout>
   </LinearLayout>
