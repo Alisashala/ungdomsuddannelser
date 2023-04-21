@@ -160,9 +160,7 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
 	
 - Vi erkender, at de unge mennesker i vores målgruppe står over for en række udfordringer, når de skal træffe beslutninger om deres fremtidige uddannelse. De konfronteres med et overvældende antal uddannelsesmuligheder og en masse pres fra både interne og eksterne faktorer, der kan påvirke deres beslutninger. Med vores app håber vi at kunne hjælpe de unge i vores målgruppe med at navigere i denne beslutningsproces og træffe en informeret beslutning, der matcher deres interesser, evner og karrieremål. Vi har designet appen på en måde, der gør det nemt og behageligt for brugerne at undersøge deres muligheder og få et overblik over deres valg.	
 	
-- Vores userflow består af fire trin: en forside, en menu, en kategori-side og en oversigt over studieretninger. Flowet er designet til at give brugeren et let forståeligt overblik over de forskellige studieretninger indenfor en specifik kategori, i dette tilfælde kunst.
-
-Det var vigtigt for os at skabe en brugervenlig og simpel app med henblik på at vi skal henvende os til unge, da vi havde en begrænset tidsramme til projektet. Derfor har vi fokuseret på at have et intuitivt design og en klar navigationsstruktur, så brugeren nemt kan finde den information, de leder efter.
+- Vores userflow består af fire trin: en forside, en menu, en kategori-side og en oversigt over studieretninger. Flowet er designet til at give brugeren et let forståeligt overblik over de forskellige studieretninger indenfor en specifik kategori, i dette tilfælde kunst. Det var vigtigt for os at skabe en brugervenlig og simpel app med henblik på at vi skal henvende os til unge, da vi havde en begrænset tidsramme til projektet. Derfor har vi fokuseret på at have et intuitivt design og en klar navigationsstruktur, så brugeren nemt kan finde den information, de leder efter.
 
 
 	
