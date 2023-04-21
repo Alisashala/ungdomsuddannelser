@@ -149,9 +149,10 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
 </details>
 
 <details> 
-	<summary> #Proces </summary>
+	<summary> Process </summary>
 	
-- Først og fremmest fandt vi det udfordrende at anvende agile metoder til at kordinere vores projekt. At holde overblikket med github project og issues blev anvendt da vi skulle lave brugerindragelse research, men da vi skulle til at kode blev det ikke anvendt på samme måde. Derudover har vi pushet og pullet i samme master branch, som vi bagefter har indset ikke er den bedste metode, da vi har haft nogle problemer med at merge. 
+- Agil
+	- Først og fremmest fandt vi det udfordrende at anvende agile metoder til at kordinere vores projekt. At holde overblikket med github project og issues blev anvendt da vi skulle lave brugerindragelse research, men da vi skulle til at kode blev det ikke anvendt på samme måde. Derudover har vi pushet og pullet i samme master branch, som vi bagefter har indset ikke er den bedste metode, da vi har haft nogle problemer med at merge. 
 
 
 	
