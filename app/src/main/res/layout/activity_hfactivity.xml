@@ -11,15 +11,12 @@
         android:layout_height="59dp"
         android:layout_marginStart="4dp"
         android:layout_marginBottom="4dp"
-        android:backgroundTint="#11171E"
-        android:onClick="backToEducation"
+        android:backgroundTint="#003332"        android:onClick="backToEducation"
         android:text="Tilbage"
         android:textColor="@color/white"
         android:textSize="8dp"
-        app:iconTint="#6C3737"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:rippleColor="#11171E" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <LinearLayout
         android:layout_width="421dp"
@@ -29,7 +26,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        android:padding="40dp">
 
         <TextView
             android:id="@+id/textView8"
@@ -58,8 +56,9 @@
             android:text="Hf er en 2-årig gymnasial uddannelse, der især henvender sig til dig, der gerne vil læse videre på en professionsbachelor- eller erhvervsakademiuddannelse."
             android:textAlignment="center"
             android:textColor="@color/white"
-            android:textSize="12sp"
+            android:textSize="14sp"
             android:textStyle="bold"
+            android:layout_marginBottom="10dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
@@ -77,8 +76,9 @@
 Når du har bestået hf-eksamen, får du et samlet eksamensbevis, hvori dit gennemsnit står. Du kan ikke senere forbedre dit gennemsnit."
             android:textAlignment="center"
             android:textColor="@color/white"
-            android:textSize="12sp"
+            android:textSize="14sp"
             android:textStyle="bold"
+            android:layout_marginBottom="10dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
@@ -100,7 +100,7 @@ Uddannelsen er opdelt i fire semestre, hvor du gradvist bliver afklaret i forhol
 Efter hvert semester afslutter du mindst et fag, med mindre du vælger at hæve faget til et højere niveau i næste semester. Fx fra C- til B-niveau."
             android:textAlignment="center"
             android:textColor="@color/white"
-            android:textSize="12sp"
+            android:textSize="14sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"

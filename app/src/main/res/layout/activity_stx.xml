@@ -11,15 +11,13 @@
         android:layout_height="59dp"
         android:layout_marginStart="4dp"
         android:layout_marginBottom="4dp"
-        android:backgroundTint="#11171E"
+        android:backgroundTint="#003332"
         android:onClick="backToEducation"
         android:text="Tilbage"
         android:textColor="@color/white"
         android:textSize="8dp"
-        app:iconTint="#6C3737"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:rippleColor="#11171E" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <LinearLayout
         android:layout_width="421dp"
@@ -29,7 +27,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        android:padding="40dp">
 
         <TextView
             android:id="@+id/textView8"
@@ -58,8 +57,9 @@
             android:text="Stx giver dig et bredt adgangsgrundlag til de videregående uddannelser på alle niveauer og inden for alle videnskabsområder. Gennem dit valg af valgfag og studieretning er du selv med til at forme din uddannelse. Du lærer at gå i dybden med fagene, du lærer at tilegne dig ny viden, og du lærer at forholde dig kritisk til denne viden."
             android:textAlignment="center"
             android:textColor="@color/white"
-            android:textSize="12sp"
+            android:textSize="13sp"
             android:textStyle="bold"
+            android:layout_marginBottom="10dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
@@ -71,13 +71,14 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:fontFamily="monospace"
+            android:layout_marginBottom="10dp"
 
             android:text="Hvert skoleår er der både mundtlige og skriftlige eksamener. I løbet af uddannelsen skal du til mindst 10 eksamener, der alle tæller med i dit samlede eksamensresultat. Nogle er obligatoriske, fx skriftlig dansk og almen sprogforståelse, og andre vil blive udtrukket blandt de øvrige fag.
 
 Når du har bestået den almene studentereksamen, får du et samlet eksamensbevis, hvorpå dit gennemsnit står. Du kan ikke forbedre dit gennemsnit på et senere tidspunkt."
             android:textAlignment="center"
             android:textColor="@color/white"
-            android:textSize="12sp"
+            android:textSize="13sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
@@ -100,7 +101,7 @@ Mange skoler arrangerer temadage og fællesarrangementer på tværs af klasser o
 "
             android:textAlignment="center"
             android:textColor="@color/white"
-            android:textSize="12sp"
+            android:textSize="13sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
