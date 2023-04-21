@@ -42,7 +42,6 @@ Storyboardet viser, hvordan vores app kan hjælpe unge mennesker som Emma med at
 	
 	
 ![storyboard](https://user-images.githubusercontent.com/111958199/233578994-978812ab-e2b5-4db3-b9f0-436e701f0317.png)
-
 	
   </details>
 
@@ -52,20 +51,18 @@ Som en del af vores brugerundersøgelse, lavede vi et user journey map for at fo
 Journey mappen blev skabt gennem en kombination af kvalitative metoder, herunder dybdegående interviews. Baseret på dette indsamlede vi nøgle indsigter fra brugerne, for at skabe et omfattende kort, der nøjagtigt afspejler brugeroplevelsen og deres tænkningsproces. 
 Journey mappen gav os et større overblik over brugerrejsen og oplevelsen, og fremhævede de vigtigste pointer. Derudover kunne vi gennem journey mappen identificere smertepunkter, motivation, mål og behov, og fik dermed en dybere forståelse af vores brugere. 
 	
-	
 ![journey map](https://user-images.githubusercontent.com/111958199/233586787-e94c4132-abdd-4dc5-b728-28e72ef0c83d.png)
-	
+***Lavet i lucidchart***	
 	
   </details>  
 
 <details>
   <summary> Persona </summary>
 Efter en samling af vigtige indsigter og pointer, valgte vi at inddrage personaer som et redskab til vores brugerundersøgelse.
-Alfred og Marie er fiktive brugerprofiler, der repræsenterer vores brugere baseret på data fra vores user research. Personaerne hjalp os med at skabe nogle effektive designs, der kommunikerer vores viden om brugerne. Dette har givet os en dybere forståelse af vores brugeres baggrund, mål og udfordringer. Eksempelvis er personernes quotes baseret på de rigtige svar vi fik fra vores survey.
-	
+Alfred og Marie er fiktive brugerprofiler, der repræsenterer vores brugere baseret på data fra vores user research. Personaerne hjalp os med at skabe nogle effektive designs, der kommunikerer vores viden om brugerne. Dette har givet os en dybere forståelse af vores brugeres baggrund, mål og udfordringer. Eksempelvis er personernes quotes baseret på de rigtige svar vi fik fra vores survey.	
 
 ![persona](https://user-images.githubusercontent.com/111958199/233587486-164fbc04-d500-4583-b694-931b844edf4f.png)
-	
+***Lavet i figma***
 	
   </details>
   
@@ -75,7 +72,7 @@ Vores moodboard hjælper os med at fange essensen af vores app, som er denne jor
 	
 	
 ![moodboard ug](https://user-images.githubusercontent.com/111958199/233589593-d58a55e0-ec59-4aae-96ba-7c547de5351f.png)
-
+***Lavet i figma***
 	
  </details>
  
@@ -85,7 +82,7 @@ For at finde frem til den generelle æstetiske ide til appen, har vi benyttet os
 	
 
 ![style tile ug](https://user-images.githubusercontent.com/111958199/233590496-38e1a020-db6c-4e80-b8b9-08d23b60b826.png)
-
+***Lavet i figma***
 	
   </details>  
 
@@ -102,10 +99,9 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
 ![mockup 3](https://user-images.githubusercontent.com/111958199/233592477-a696edb0-cb54-45b3-b5a1-984018e2c131.png)
 
 ![mockup 4](https://user-images.githubusercontent.com/111958199/233592459-a3151d91-a238-4e49-af43-f81ddcd55bd2.png)
-
 	
 ![mockup 5](https://user-images.githubusercontent.com/111958199/233592380-4bff8e3b-df06-4a2b-af9a-8f27f79c8308.png)
-
+***Lavet med midjourney***
 	
   </details>
 																																																
