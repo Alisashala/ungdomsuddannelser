@@ -151,7 +151,17 @@ Promt til mockups: UI design,8k, illustration, app design, tiny skeuomorphic, mi
 <details> 
 	<summary> Proces </summary>
 	
-- Først og fremmest fandt vi det udfordrende at anvende agile metoder til at kordinere vores projekt. Github project og issues blev anvendt da vi skulle lave brugerindragelse research, men da vi skulle til at kode blev det ikke anvendt på samme måde. Derudover har vi pushet og pullet i samme master branch, som vi bagefter har indset ikke er den bedste metode, da vi har haft nogle problemer med at merge. 
+- Agil
+	- Først og fremmest fandt vi det udfordrende at anvende agile metoder til at kordinere vores projekt. Github project og issues blev anvendt da vi skulle lave brugerindragelse research, men da vi skulle til at kode blev det ikke anvendt på samme måde. Derudover har vi pushet og pullet i samme master branch, som vi bagefter har indset ikke er den bedste metode, da vi har haft nogle problemer med at merge. 
+
+- Applikationsudvikling 
+	- Kodningen i projektet var opdelt således at Mads Stod for firebase opsætningen og Klara og Alisa stod for app design. 
+	- Koden er dokumenteret i android studios med vores github brugernavn.
+	- Kodningen foregik hvor vi sad samlet og udviklet på vores app. Det fandt vi nemmere, så vi kunne kommunikere om alle vores ideer til appen. 
+
+- Brugerinddragelse 
+	- Brugerindragelses research var oplagt for os, da vi havde venner og familie som gav os adgang til interviews og mange survey svar. 
+	
 
 </details>
 
