@@ -18,6 +18,21 @@
       app:layout_constraintEnd_toEndOf="parent"
       app:layout_constraintStart_toStartOf="parent"
       app:layout_constraintTop_toTopOf="parent">
+    <Button
+        android:id="@+id/backToMainBtn"
+        android:layout_width="88dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="#11171E"
+        android:onClick="backToInterest"
+        android:text="Tilbage"
+        android:textColor="@color/white"
+        android:textSize="8dp"
+        app:iconTint="#6C3737"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:rippleColor="#11171E" />
 
     <LinearLayout
         android:orientation="vertical"
