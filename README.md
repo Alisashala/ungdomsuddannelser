@@ -12,7 +12,10 @@ For at besvare ovenstående problemstilling, har vi gennemført en kombination a
 Vi valgte at benytte os af surveys som en af vores primære metoder, da det er en god måde at få både kvantitative og kvalitative svar på. Kvantitative da det fx. gav os et overblik over hvilke grupper af mennesker som stod overfor dette problem, og kvalitative da vi fik mange detaljerede svar, som uddybede og forklarede deres synsvinkel.
 Der var dog en bias i vores survey, som gør at vores svar fx. viser at det primært er piger som er i tvivl, når det kommer til deres ungdomsuddannelse. Dette bias opstod, da vi sendte vores survey til Humble musikefterskole, og fik en masse svar derfra.  Generelt set starter folk på den skole, hvis de har store ambitioner inde for musik- men når det er sagt, så er det generelt set mest drengene, som er “seriøse” omkring det. Derfor kunne dette være årsagen til, at de fleste drenge i vores survey ikke var i tvivl om deres ungdomsuddannelsesvalg. På samme tid, er musik en generel faktor i vores svar, som giver god mening hvis man har det in mente, at de hovedsageligt kommer fra en gruppe af unge som elsker musik. 
 
-[Link til survey svar](https://docs.google.com/spreadsheets/d/1QBxmuNCa6OTO8kJ9MKrvjzjx9eWGwKf9A4I8xrkysTU/edit#gid=972226437)
+![Antal Hvad identificerer du dig som_ (1)](https://user-images.githubusercontent.com/111958199/233621149-7a5865d0-8bb7-4736-85e9-adb7c3ac38d9.png)
+
+Hvis du vil læse survey svar:
+[Survey](https://docs.google.com/spreadsheets/d/1QBxmuNCa6OTO8kJ9MKrvjzjx9eWGwKf9A4I8xrkysTU/edit#gid=972226437)
 
 ### Interview
 En af de primære metoder, vi anvendte i vores brugerundersøgelse, var semi-strukturerede interviews med vores målgruppe. 
@@ -52,13 +55,19 @@ Målgruppen kan have brug for hjælp til at finde og evaluere information om for
 
 ## Resultater:
 Desk Research, interviews & survey
+
 Generelle problemstillinger for unge når de skal vælge en ungdomsuddannelse:
-Valgmuligheder: Der er en bred vifte af uddannelsesmuligheder, og det kan være svært for unge mennesker at finde ud af, hvad de skal vælge.
-Mangel på information: Nogle unge kan have svært ved at få adgang til tilstrækkelig information om de forskellige uddannelsesmuligheder og de karrieremuligheder, som uddannelserne kan føre til.
-Forventningspres: Unge kan opleve pres fra familie, venner og samfundet generelt om at vælge en bestemt uddannelse eller karrierevej.
-Manglende selvtillid: Nogle unge kan have svært ved at vurdere deres evner og interesser og dermed have svært ved at vælge en uddannelse, de føler sig sikre på.
-Valget af ungdomsuddannelse er en del af en identitetsudviklende proces, og unge vælger efter interesser og faglige dygtigheder. Uddannelsesvalget definerer en ny rolle, som de selv kan påvirke.
-Unge påvirkes af deres nære relationer som familie, venner og skolekammerater, når de vælger uddannelse. Forældre har indflydelse på deres uddannelsesvalg gennem deres familiestruktur, indkomstgrundlag og egen uddannelsesbaggrund.
+- Valgmuligheder: Der er en bred vifte af uddannelsesmuligheder, og det kan være svært for unge mennesker at finde ud af, hvad de skal vælge.
+
+- Mangel på information: Nogle unge kan have svært ved at få adgang til tilstrækkelig information om de forskellige uddannelsesmuligheder og de karrieremuligheder, som uddannelserne kan føre til.
+
+- Forventningspres: Unge kan opleve pres fra familie, venner og samfundet generelt om at vælge en bestemt uddannelse eller karrierevej.
+
+- Manglende selvtillid: Nogle unge kan have svært ved at vurdere deres evner og interesser og dermed have svært ved at vælge en uddannelse, de føler sig sikre på.
+
+- Valget af ungdomsuddannelse er en del af en identitetsudviklende proces, og unge vælger efter interesser og faglige dygtigheder. Uddannelsesvalget definerer en ny rolle, som de selv kan påvirke.
+
+- Unge påvirkes af deres nære relationer som familie, venner og skolekammerater, når de vælger uddannelse. Forældre har indflydelse på deres uddannelsesvalg gennem deres familiestruktur, indkomstgrundlag og egen uddannelsesbaggrund.
 
 <details>
   <summary> UX Storyboard </summary>
@@ -105,6 +114,7 @@ Vores moodboard hjælper os med at fange essensen af vores app, som er denne jor
 <details>
   <summary> Style tile </summary>
 For at finde frem til den generelle æstetiske ide til appen, har vi benyttet os af et style tile. Det er en visuel hjælp, som hjalp os med at få fastlagt ting såsom farver og typografi.
+Vi har valgt at bruge blå, grøn og orange som primære farver, da det understøtter vores apps essence (ting såsom kompatance, glæde, tillid, natur, ect.)
 	
 
 ![style tile ug](https://user-images.githubusercontent.com/111958199/233590496-38e1a020-db6c-4e80-b8b9-08d23b60b826.png)
